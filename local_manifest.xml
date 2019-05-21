@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!--Device tree-->
-  <project name="rainbowdashh/android_device_samsung_crownlte" path="device/samsung/crownlte" remote="github" revision="PixelExperience-P"/>
-  <project name="rainbowdashh/android_device_universal9810-common" path="device/samsung/universal9810-common" remote="github" revision="PixelExperience-P"/>
+  <project name="rainbowdashh/android_device_samsung_crownlte" path="device/samsung/crownlte" remote="github" revision="lineage-16.0"/>
+  <project name="rainbowdash/android_device_universal9810-common" path="device/samsung/universal9810-common" remote="github" revision="PixelExperience-P"/>
   <!--Hardware-->
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-16.0"/>
   <!--Kernel(s)-->
-  <project name="rainbowdashh/android_kernel_samsung_universal9810-crown" path="kernel/samsung/universal9810-crown" remote="github" revision="pie"/>
+  <project name="mainey/android_kernel_samsung_universal9810-crown" path="kernel/samsung/universal9810-crown" remote="github" revision="lineage-16.0"/>
   <!--Blobs-->
-  <project name="rainbowdashh/proprietary_vendor_samsung_universal9810-common" path="vendor/samsung/universal9810-common" remote="github" revision="pie"/>
+  <project name="not7100/proprietary_vendor_samsung_universal9810-common" path="vendor/samsung/universal9810-common" remote="github" revision="lineage-16.0"/>
 </manifest>
