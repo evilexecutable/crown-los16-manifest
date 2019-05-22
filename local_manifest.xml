@@ -2,7 +2,7 @@
 <manifest>
   <!--Device tree-->
   <project name="rainbowdashh/android_device_samsung_crownlte" path="device/samsung/crownlte" remote="github" revision="lineage-16.0"/>
-  <project name="rainbowdash/android_device_universal9810-common" path="device/samsung/universal9810-common" remote="github" revision="PixelExperience-P"/>
+  <project name="rainbowdashh/android_device_universal9810-common" path="device/samsung/universal9810-common" remote="github" revision="PixelExperience-P"/>
   <!--Hardware-->
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-16.0"/>
   <!--Kernel(s)-->
