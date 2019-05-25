@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!--Device tree-->
-  <project name="rainbowdashh/android_device_samsung_crownlte" path="device/samsung/crownlte" remote="github" revision="lineage-16.0"/>
-  <project name="rainbowdashh/android_device_universal9810-common" path="device/samsung/universal9810-common" remote="github" revision="PixelExperience-P"/>
+  <project name="evilexecutable/android_device_samsung-crownlte" path="device/samsung/crownlte" remote="github" revision="lineage-16.0"/>
+  <project name="evilexecutable/android_device_samsung-universal9810-common" path="device/samsung/universal9810-common" remote="github" revision="lineage-16.0"/>
   <!--Hardware-->
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-16.0"/>
   <!--Kernel(s)-->
   <project name="Eamo5/crownlte-endurance" path="kernel/samsung/universal9810-crown" remote="github" revision="Endurance-Kernel-P-AOSP"/>
   <!--Blobs-->
-  <project name="not7100/proprietary_vendor_samsung_universal9810-common" path="vendor/samsung/universal9810-common" remote="github" revision="lineage-16.0"/>
+  <project name="evilexecutable/android_proprietary_vendor_universal9810-common" path="vendor/samsung/universal9810-common" remote="github" revision="lineage-16.0"/>
 </manifest>
