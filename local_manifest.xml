@@ -2,7 +2,7 @@
 <manifest>
   <!--Device tree-->
   <project name="evilexecutable/android_device_samsung-crownlte" path="device/samsung/crownlte" remote="github" revision="lineage-16.0"/>
-  <project name="evilexecutable/android_device_samsung-universal9810-common" path="device/samsung/universal9810-common" remote="github" revision="lineage-16.0"/>
+  <project name="evilexecutable/android_device_samsung_universal9810-common" path="device/samsung/universal9810-common" remote="github" revision="lineage-16.0"/>
   <!--Hardware-->
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-16.0"/>
   <!--Kernel(s)-->
